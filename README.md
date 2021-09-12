@@ -1,0 +1,1 @@
+Typescript version of the node server i built for storing Location
